@@ -41,3 +41,5 @@ El codigo va aqui dentro
 ![TextoAlternativo](UbicacionDeLaImagen "Titulo opcional")
 
 ![Foto del GOAT](https://github.com/enricvenanci/ASIX1-AprendizajeMarkdown/blob/main/messi.jpg "Messi")
+
+![GIF del GOAT](https://github.com/enricvenanci/ASIX1-AprendizajeMarkdown/blob/main/messi.gif "Messiii")
