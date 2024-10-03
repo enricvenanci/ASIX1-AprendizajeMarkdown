@@ -30,8 +30,14 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 El codigo va aqui dentro
 ```
 
-**Como hacer un enlace**
+### Como hacer un enlace
 
 [textoClicable](URL "Titulo opcional")
 
 [Página web de Jesuites Bellvitge](https://www.fje.edu/ca/jesuites-bellvitge "Título opcional")
+
+### Como poner una imagen
+
+![TextoAlternativo](UbicacionDeLaImagen "Titulo opcional")
+
+![TextoAlternativo](C:\repositorios\ASIX1-AprendizajeMarkdown "Messi")
