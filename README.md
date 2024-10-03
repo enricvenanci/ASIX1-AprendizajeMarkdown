@@ -43,3 +43,9 @@ El codigo va aqui dentro
 ![Foto del GOAT](https://github.com/enricvenanci/ASIX1-AprendizajeMarkdown/blob/main/messi.jpg "Messi")
 
 ![GIF del GOAT](https://github.com/enricvenanci/ASIX1-AprendizajeMarkdown/blob/main/messi.gif "Messiii")
+
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|----------|------------:|:---------------------:|
+|SMX2|curso2324 |200$|
+|**ASIX1**|curso 2425|33|
+|DAW2|curso2425|32|
