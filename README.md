@@ -40,4 +40,4 @@ El codigo va aqui dentro
 
 ![TextoAlternativo](UbicacionDeLaImagen "Titulo opcional")
 
-![TextoAlternativo](C:\repositorios\ASIX1-AprendizajeMarkdown "Messi")
+![Foto del GOAT](C:\repositorios\ASIX1-AprendizajeMarkdown "Messi")
